@@ -10,4 +10,6 @@ t/pod-coverage.t
 t/pod.t
 t/rsnapshot.conf.xml
 MANIFEST
+t/empty-element.t
+t/empty-element.xml
 META.yml                                 Module meta-data (added by MakeMaker)
